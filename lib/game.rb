@@ -20,4 +20,5 @@ class Game
     end
     [player1, player2]
   end
+  
 end
